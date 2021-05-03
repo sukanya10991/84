@@ -6,16 +6,10 @@ body{
 #aargh
 {
 	border-width:10px;
-	background-color: white; 
 	border-style:ridge;
 }
 
 h1
 {
-	color: white !important;
-}
-#bpink{
-    border: radius 10px;
-    border-width:2cm;
-    border-style:solid;
+	color:black;
 }
